@@ -4,7 +4,7 @@
 #
 Name     : pypi-matplotlib_inline
 Version  : 0.1.6
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/d9/50/3af8c0362f26108e54d58c7f38784a3bdae6b9a450bab48ee8482d737f44/matplotlib-inline-0.1.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d9/50/3af8c0362f26108e54d58c7f38784a3bdae6b9a450bab48ee8482d737f44/matplotlib-inline-0.1.6.tar.gz
 Summary  : Inline Matplotlib backend for Jupyter
@@ -42,6 +42,7 @@ Summary: python3 components for the pypi-matplotlib_inline package.
 Group: Default
 Requires: python3-core
 Provides: pypi(matplotlib_inline)
+Requires: pypi(matplotlib)
 Requires: pypi(traitlets)
 
 %description python3
@@ -60,7 +61,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1660847763
+export SOURCE_DATE_EPOCH=1663349917
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
