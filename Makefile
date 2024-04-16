@@ -1,5 +1,5 @@
 PKG_NAME := pypi-matplotlib_inline
-URL = https://files.pythonhosted.org/packages/d9/50/3af8c0362f26108e54d58c7f38784a3bdae6b9a450bab48ee8482d737f44/matplotlib-inline-0.1.6.tar.gz
+URL = https://files.pythonhosted.org/packages/99/5b/a36a337438a14116b16480db471ad061c36c3694df7c2084a0da7ba538b7/matplotlib_inline-0.1.7.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
