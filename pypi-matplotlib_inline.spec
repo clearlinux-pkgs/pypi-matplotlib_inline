@@ -7,7 +7,7 @@
 #
 Name     : pypi-matplotlib_inline
 Version  : 0.1.7
-Release  : 23
+Release  : 24
 URL      : https://files.pythonhosted.org/packages/99/5b/a36a337438a14116b16480db471ad061c36c3694df7c2084a0da7ba538b7/matplotlib_inline-0.1.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/99/5b/a36a337438a14116b16480db471ad061c36c3694df7c2084a0da7ba538b7/matplotlib_inline-0.1.7.tar.gz
 Summary  : Inline Matplotlib backend for Jupyter
